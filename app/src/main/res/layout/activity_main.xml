@@ -31,6 +31,7 @@
                 android:backgroundTint="#4CAF50"
                 app:srcCompat="?android:attr/actionModeWebSearchDrawable" />
         </LinearLayout>
+
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
