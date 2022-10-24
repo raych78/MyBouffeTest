@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyBouffeTest</string>
+
+
+    <string-array name="food_array">
+        <item>riz basmatti</item>
+        <item>quinoa</item>
+        <item>lentilles</item>
+        <item>semoule</item>
+        <item>pattes</item>
+        <item>pain</item>
+        <item>carottes</item>
+        <item>pomme</item>
+    </string-array>
+
+</resources>
